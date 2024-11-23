@@ -5,9 +5,9 @@
 - <b>Full Stack Web App and Desktop app (Django,Django REST Framework,Html, Css,Bootstrap,Jquery, Tkinter )</b>
   - [Store Keeping Management System](https://github.com/Percy-O/) 
 - <b>Web Application (Django,Html, Css,Bootstrap,Beautifulsoup,)</b>
-  - [Job Recruitment Portal](https://github.com/Percy-O/)
+  - [Job Recruitment Portal](https://github.com/Percy-O/Job-Portal)
 - <b>Web Application (Django,Html,Css,javascript,Bootstrap,)</b>
-  - [House Management System](https://github.com/Percy-O/) 
+  - [House Reservation](https://github.com/Percy-O/House-Reservation) 
 
 - <b>Data science/ Machine Learning</b>
   - [Stock Price Prediction](https://github.com/Percy-O/)
@@ -19,7 +19,7 @@
   - [Malaria Image Slide Prediction](https://github.com/Percy-O/)
 - <b>Python (Tkinter)</b>
   - [Library Management System)](https://github.com/Percy-O/)
-  - [Store Management System)]([https://github.com/Percy-O/](https://github.com/Percy-O/Store-Software))
+  - [Store Management System)](https://github.com/Percy-O/Store-Software)
 
 
 <h2> 🤳 Connect with me:</h2>
