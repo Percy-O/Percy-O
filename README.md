@@ -19,7 +19,7 @@
   - [Malaria Image Slide Prediction](https://github.com/Percy-O/)
 - <b>Python (Tkinter)</b>
   - [Library Management System)](https://github.com/Percy-O/)
-  - [Store Management System)](https://github.com/Percy-O/)
+  - [Store Management System)]([https://github.com/Percy-O/](https://github.com/Percy-O/Store-Software))
 
 
 <h2> 🤳 Connect with me:</h2>
