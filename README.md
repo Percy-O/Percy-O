@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App and Desktop app (Django,Django REST Framework,Html, Css,Bootstrap,Jquery, Tkinter )</b>
-  - [Store Keeping Management System](https://github.com/Percy-O/) 
+  - [Store Keeping Management System](https://github.com/Percy-O/Store-Keeping-Management-System) 
 - <b>Web Application (Django,Html, Css,Bootstrap,Beautifulsoup,)</b>
   - [Job Recruitment Portal](https://github.com/Percy-O/Job-Portal)
 - <b>Web Application (Django,Html,Css,javascript,Bootstrap,)</b>
