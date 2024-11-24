@@ -7,7 +7,11 @@
 - <b>Web Application (Django,Html, Css,Bootstrap,Beautifulsoup,)</b>
   - [Job Recruitment Portal](https://github.com/Percy-O/Job-Portal)
 - <b>Web Application (Django,Html,Css,javascript,Bootstrap,)</b>
-  - [House Reservation](https://github.com/Percy-O/House-Reservation) 
+  - [House Reservation](https://github.com/Percy-O/House-Reservation)
+- <b>Web Application (Django,Html,Css,javascript,Bootstrap,)</b>
+  - [Construction Management System](https://github.com/Percy-O/Construction)
+- <b>Web Application (Django,Html,Css,javascript,Bootstrap,)</b>
+  - [Hostel Booking](https://github.com/Percy-O/Hostel-Booking) 
 
 <h2>👨‍💻 Data science/ Machine Learning Projects:</h2>
 
