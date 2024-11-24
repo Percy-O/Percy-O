@@ -9,7 +9,8 @@
 - <b>Web Application (Django,Html,Css,javascript,Bootstrap,)</b>
   - [House Reservation](https://github.com/Percy-O/House-Reservation) 
 
-- <b>Data science/ Machine Learning</b>
+<h2>👨‍💻 Data science/ Machine Learning Projects:</h2>
+
   - [Stock Price Prediction](https://github.com/Percy-O/Stock-Price-Prediction)
   - [Breast Cancer Prediction](https://github.com/Percy-O/Breast-Cancer-Prediction)
   - [Network Intrusion Detection System](https://github.com/Percy-O/)
@@ -24,6 +25,8 @@
   - [Fashion Prediction](https://github.com/Percy-O/Fashion-Prediction)
   - [Sentiment Analysis](https://github.com/Percy-O/Sentiment-Analysis)
   - [Malaria Image Slide Prediction](https://github.com/Percy-O/)
+
+  <h2>👨‍💻 Desktop Application Projects:</h2>
 - <b>Python (Tkinter)</b>
   - [Library Management System)](https://github.com/Percy-O/)
   - [Store Management System)](https://github.com/Percy-O/Store-Software)
