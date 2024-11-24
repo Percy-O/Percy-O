@@ -27,7 +27,7 @@
   - [Malaria Image Slide Prediction](https://github.com/Percy-O/)
 
   <h2>👨‍💻 Desktop Application Projects:</h2>
-- <b>Python (Tkinter)</b>
+
   - [Library Management System)](https://github.com/Percy-O/)
   - [Store Management System)](https://github.com/Percy-O/Store-Software)
 
