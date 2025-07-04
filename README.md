@@ -15,21 +15,21 @@
 
 <h2>👨‍💻 Data science/ Machine Learning Projects:</h2>
 
+  - [Ads Click Prediction](https://github.com/Percy-O/Ads-Click-Predicition)
   - [Stock Price Prediction](https://github.com/Percy-O/Stock-Price-Prediction)
   - [Breast Cancer Prediction](https://github.com/Percy-O/Breast-Cancer-Prediction)
+  - [House Price Predicition](https://github.com/Percy-O/House-Price-Predicition)
   - [Network Intrusion Detection System](https://github.com/Percy-O/)
   - [Stroke Prediction](https://github.com/Percy-O/)
-  - [House Price Predicition](https://github.com/Percy-O/House-Price-Predicition)
   - [Brain Stroke Prediction](https://github.com/Percy-O/Brain-Stroke-Prediction)
   - [Cloud Security](https://github.com/Percy-O/Cloud-Security)
   - [Credit Card](https://github.com/Percy-O/Credit-Card)
   - [Email Marketing](https://github.com/Percy-O/Email-Marketing)
-  - [Ads Click Prediction](https://github.com/Percy-O/Ads-Click-Predicition)
   - [Epidemic Outbreaks](https://github.com/Percy-O/Epidemic-Outbreaks)
   - [Fashion Prediction](https://github.com/Percy-O/Fashion-Prediction)
   - [Sentiment Analysis](https://github.com/Percy-O/Sentiment-Analysis)
   - [Malaria Image Slide Prediction](https://github.com/Percy-O/)
-
+  and more ..
   <h2>👨‍💻 Desktop Application Projects:</h2>
 
   - [Library Management System)](https://github.com/Percy-O/)
