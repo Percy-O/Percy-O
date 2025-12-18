@@ -1,4 +1,4 @@
-<h1>Hi, I'm Percy! <br/><a href="https://github.com/Percy-O">Programmer</a>, <a href="https://www.linkedin.com/in/percyolawale/">Data Scientist/Data Analyst</a>, </h1>
+<h1>Hi, I'm Percy! <br/><a href="https://github.com/Percy-O">Programmer/ Software Dev</a>, <a href="https://www.linkedin.com/in/percyolawale/">Data Scientist/Data Analyst</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -12,6 +12,7 @@
   - [Construction Management System](https://github.com/Percy-O/Construction)
 - <b>Web Application (Django,Html,Css,javascript,Bootstrap,)</b>
   - [Hostel Booking](https://github.com/Percy-O/Hostel-Booking) 
+- and other private projects
 
 <h2>👨‍💻 Data science/ Machine Learning Projects:</h2>
 
