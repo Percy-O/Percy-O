@@ -1,4 +1,4 @@
-<h1>Hi, I'm Percy! <br/><a href="https://github.com/Percy-O">Programmer/ Software Dev</a>, <a href="https://www.linkedin.com/in/percyolawale/">Data Scientist/Data Analyst</a>, </h1>
+<h1>Hi, I'm Percy! <br/><a href="https://github.com/Percy-O">Software Dev</a>, <a href="https://www.linkedin.com/in/percyolawale/">AI Automation / Engineer Specialist/</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -13,6 +13,16 @@
 - <b>Web Application (Django,Html,Css,javascript,Bootstrap,)</b>
   - [Hostel Booking](https://github.com/Percy-O/Hostel-Booking) 
 - and other private projects
+  
+<h2>👨‍💻 AI Automation & AI Engineering Project:</h2>
+ - [AI Email Segmentation ](https://github.com/Percy-O/Ads-Click-Predicition)
+ - [AI Customer Assitance](https://github.com/Percy-O/Stock-Price-Prediction)
+ - [Whatsaap Bot Assistance for Hotel](https://github.com/Percy-O/Breast-Cancer-Prediction)
+ - [Leads Generations](https://github.com/Percy-O/Breast-Cancer-Prediction)
+ - [Slack AI Assistance](https://github.com/Percy-O/Breast-Cancer-Prediction)
+ - [Email Marketing](https://github.com/Percy-O/Breast-Cancer-Prediction)
+ - [Social Media Posting Automation](https://github.com/Percy-O/Breast-Cancer-Prediction)
+ 
 
 <h2>👨‍💻 Data science/ Machine Learning Projects:</h2>
 
