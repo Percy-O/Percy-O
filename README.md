@@ -1,4 +1,4 @@
-<h1>Hi, I'm Percy! <br/><a href="https://github.com/Percy-O">Software Dev</a>, <a href="https://www.linkedin.com/in/percyolawale/">AI Automation / Engineer Specialist/</a>, </h1>
+<h1>Hi, I'm Percy! <br/><a href="https://github.com/Percy-O">Web/Software Dev</a>, <a href="https://www.linkedin.com/in/percyolawale/">AI Automation & Engineer Specialist</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
