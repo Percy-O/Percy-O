@@ -1,4 +1,4 @@
-<h1>Hi, I'm Percy! <br/><a href="https://github.com/Percy-O">Web/Software Dev</a>, <a href="https://www.linkedin.com/in/percyolawale/">AI Automation & Engineer Specialist</a>, </h1>
+<h1>Hi, I'm Percy! <br/><a href="https://github.com/Percy-O">Web/Software Dev</a>, <a href="https://www.linkedin.com/in/percyolawale/">AI Automation & Engineer Specialist</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -62,9 +62,9 @@
 [<img align="left" alt="PercyO | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="PercyO | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
-[twitter]: https://twitter.com/
+[twitter]: https://x.com/percyowoeye
 [instagram]: https://www.instagram.com/percyowoeye/
-[linkedin]: https://linkedin.com/in/percyolawale
+[linkedin]: https://linkedin.com/in/percyo
 [whatsapp]: https://wa.me/+2347067250197
 
 <!--
