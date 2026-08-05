@@ -15,7 +15,8 @@
 - and other private projects
   
 <h2>👨‍💻 AI Automation & AI Engineering Project:</h2>
- - [AI Email Segmentation ](https://github.com/Percy-O/Ads-Click-Predicition)
+
+ - [AI Email Segmentation](https://github.com/Percy-O/Ads-Click-Predicition)
  - [AI Customer Assitance](https://github.com/Percy-O/Stock-Price-Prediction)
  - [Whatsaap Bot Assistance for Hotel](https://github.com/Percy-O/Breast-Cancer-Prediction)
  - [Leads Generations](https://github.com/Percy-O/Breast-Cancer-Prediction)
