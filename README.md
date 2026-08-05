@@ -17,19 +17,19 @@
 <h2>👨‍💻 AI Automation & AI Engineering Project:</h2>
 
 - <b>AI Email Segmentation<b>
- - [AI Email Segmentation](https://github.com/Percy-O/Email-Segmentation)
+   - [AI Email Segmentation](https://github.com/Percy-O/Email-Segmentation)
 - <b>Techohr AI Customer Assitance<b>
- - [Techohr AI Customer Assitance](https://github.com/Percy-O/Techohr-AI-Assitance)
+   - [Techohr AI Customer Assitance](https://github.com/Percy-O/Techohr-AI-Assitance)
 - <b>Whatsaap Bot Assistance for Hotel<b>
- - [Whatsaap Bot Assistance for Hotel](https://github.com/Percy-O/Whatsapp-bot-for-hotel-business)
+   - [Whatsaap Bot Assistance for Hotel](https://github.com/Percy-O/Whatsapp-bot-for-hotel-business)
 - <b>Leads Generations<b>
- - [Leads Generations](https://github.com/Percy-O/AI-Leads-Generations)
+   - [Leads Generations](https://github.com/Percy-O/AI-Leads-Generations)
 - <b>Slack AI Assistance<b>
- - [Slack AI Assistance](https://github.com/Percy-O/Slack-AI-Researcher)
-<b>Automated Email Messaging<b>
- - [Automated Email Messaging](https://github.com/Percy-O/Automated-Email-Bulk-Message)
+   - [Slack AI Assistance](https://github.com/Percy-O/Slack-AI-Researcher)
+- <b>Automated Email Messaging<b>
+   - [Automated Email Messaging](https://github.com/Percy-O/Automated-Email-Bulk-Message)
 - <b>Social Media Posting Automation<b>
- - [Social Media Posting Automation](https://github.com/Percy-O/Social-Media-Post-Automation)
+   - [Social Media Posting Automation](https://github.com/Percy-O/Social-Media-Post-Automation)
  
 
 <h2>👨‍💻 Data science/ Machine Learning Projects:</h2>
